@@ -7,7 +7,7 @@ A MongoDB data project for exploring UK food establishments and analyzing food s
 ## Table of Contents
 - [Overview](#overview)
 - [Setup](#setup)
-- [Data Import](#data-import)
+- [Data Import Instructions](#data-import)
 - [Usage](#usage)
 - [Key Insights](#key-insights)
 - [Contributors](#contributors)
