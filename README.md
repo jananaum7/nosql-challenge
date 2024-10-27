@@ -5,13 +5,14 @@
 A MongoDB data project for exploring UK food establishments and analyzing food safety standards based on hygiene ratings and location data.
 
 ## Table of Contents
-- [Overview](#overview)
-- [Setup](#setup)
-- [Data Import Instructions](#data-import)
-- [Usage](#usage)
-- [Key Insights](#key-insights)
-- [Contributors](#contributors)
-
+- [Overview]
+- [Setup]
+- [Data Import Instructions]
+- [Usage]
+- [Key Insights]
+- [Acknowledgments]
+- [Contributors]
+  
 ## Overview
 This project utilizes MongoDB to examine the food safety standards of establishments across the UK. The two primary notebooks include:
 - **NoSQL_setup_starter.ipynb**: Guides through MongoDB setup and data import.
@@ -48,6 +49,9 @@ Data Analysis: Use NoSQL_analysis_starter.ipynb to perform various queries, anal
    - Extracted data for establishments near "Penang Flavours" with a RatingValue of 5, sorted by the lowest hygiene scores for quality comparisons.
 4. Local Authority Hygiene Overview: Aggregated establishments with a hygiene score of 0, grouped by Local Authority.
    - Top Authorities: Displays the authorities with the highest number of establishments with zero hygiene scores, revealing areas for potential health interventions.
+
+## Acknowledgments
+Thanks to the tutors who provided guidance on the in-depth analysis for Questions 3 and 4.
 
 ## Contributers
 J. Naum
